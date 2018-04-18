@@ -1,0 +1,12 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\DeckOfCards\DeckOfCards\bin\Debug\DeckOfCards.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Alsadoon_Mareh_Assignment-3b\DeckOfCards1\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Alsadoon_Mareh_Assignment-3b\DeckOfCards1\DeckOfCards\obj\Debug\DeckOfCards.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Alsadoon_Mareh_Assignment-3b\DeckOfCards1\DeckOfCards\obj\Debug\DeckOfCards.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Alsadoon_Mareh_Assignment-3b\DeckOfCards1\DeckOfCards\bin\Debug\DeckOfCards.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Alsadoon_Mareh_Assignment-3b\DeckOfCards1\DeckOfCards\bin\Debug\DeckOfCards.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\Alsadoon_Mareh_Assignment-3b\DeckOfCards1\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
